@@ -28,4 +28,4 @@ Microsoft AI Most Valuable Professional
 
 Microsoft Certified Trainer
 
-Check out my other courses [https://www.linkedin.com/learning/instructors/ziggy-zulueta)]: here.
+Check out my other courses [here] (https://www.linkedin.com/learning/instructors/ziggy-zulueta)
