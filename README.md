@@ -3,34 +3,28 @@ This is the repository for the LinkedIn Learning course `Azure AI for Developers
 
 ![course-name-alt-text][lil-thumbnail-url] 
 
-_See the readme file in the main branch for updated instructions and information._
-## Instructions
-This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
+This course provides a comprehensive introduction to Azure AI Vision, Face, Custom Vision, and utilizing Generative AI for image processing. You will learn how to create and manage resources, explore various studios, and utilize SDKs for image and video analysis. Through hands-on challenges, you'll process images, perform face analysis, build custom classifiers and object detectors, generate and analyze images, and create image embeddings using Python. By the end of the course, you'll have a solid understanding of these powerful AI tools and how to apply them to real-world scenarios.
 
-## Branches
-The branches are structured to correspond to the videos in the course. The naming convention is `CHAPTER#_MOVIE#`. As an example, the branch named `02_03` corresponds to the second chapter and the third video in that chapter. 
-Some branches will have a beginning and an end state. These are marked with the letters `b` for "beginning" and `e` for "end". The `b` branch contains the code as it is at the beginning of the movie. The `e` branch contains the code as it is at the end of the movie. The `main` branch holds the final state of the code when in the course.
+This course is integrated with GitHub Codespaces, an instant cloud developer environment that offers all the functionality of your favorite IDE without the need for any local machine setup. With GitHub Codespaces, you can get hands-on practice from any machine, at any time—all while using a tool that you’ll likely encounter in the workplace.
 
-When switching from one exercise files branch to the next after making changes to the files, you may get a message like this:
+Learning objectives:
+1. Identify common use cases for image processing
+2. Build image-processing applications using Azure Vision, Azure Face, Azure Custom Vision, Azure OpenAI and Azure Content Understanding
+3. Use Custom Vision to create custom classifiers and custom object detectors
+4. Generate and analyze images using Azure OpenAI
+5. Create image embeddings using Azure Vision for Image Retrieval Systems
+6. Get structured from images and videos using Azure AI Content Understanding
 
-    error: Your local changes to the following files would be overwritten by checkout:        [files]
-    Please commit your changes or stash them before you switch branches.
-    Aborting
+## Files
+The files are named to correspond to the videos in the course. The naming convention is CHAPTER#_MOVIE#. As an example, the branch named 01_05 corresponds to the first chapter and the fifth video in that chapter.
 
-To resolve this issue:
-	
-    Add changes to git using this command: git add .
-	Commit changes using this command: git commit -m "some message"
+## Data Files
+Data folder contains the data sets used in the course.
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
-
-
-[0]: # (Replace these placeholder URLs with actual course URLs)
-
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+## Instructor
+Ziggy Zulueta
+Microsoft AI Most Valuable Professional
+Microsoft Certified Trainer
+Check out my other courses [here].
+[here]: https://www.linkedin.com/learning/instructors/ziggy-zulueta
 
