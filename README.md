@@ -29,3 +29,9 @@ Microsoft AI Most Valuable Professional
 Microsoft Certified Trainer
 
 Check out my other courses [here](https://www.linkedin.com/learning/instructors/ziggy-zulueta)
+
+[0]: # (Replace these placeholder URLs with actual course URLs)
+
+[lil-course-url]: https://www.linkedin.com/learning/azure-ai-for-developers-process-images-with-azure-ai
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQHjv9uoUyncoA/learning-public-crop_675_1200/B4EZYSAtFcHUAY-/0/1744058897055?e=2147483647&v=beta&t=yNtqW9lIZJDrV6uEWlyzRWBnR_QkF8TIwNhy8VZaHB0
+
